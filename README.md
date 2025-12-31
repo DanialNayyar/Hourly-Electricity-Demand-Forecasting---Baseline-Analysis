@@ -18,7 +18,7 @@ This project was started to investigate that.
 - Data Leakage was avoided with rigour
 - Results were interpretated in a physically and statically meaningful way
 
-  ## Dataset
+## Dataset
   - Kaggle (https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption/data?select=PJM_Load_hourly.csv)
   - Time Period - 1998 to 2002
   - Frequncy - Hourly
